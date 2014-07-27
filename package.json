@@ -1,0 +1,19 @@
+{
+  "name": "driver-go-wii-controller",
+  "version": "0.0.0",
+  "description": "driver-go-wii-controller ========================",
+  "main": "main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjasphere/driver-go-wii-controller"
+  },
+  "author": "Elliot Shepherd <elliot@ninjablocks.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjasphere/driver-go-wii-controller/issues"
+  },
+  "homepage": "https://github.com/ninjasphere/driver-go-wii-controller"
+}
